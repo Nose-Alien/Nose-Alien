@@ -15,6 +15,7 @@ I owe a great deal to my friends [CloverGit](https://github.com/CloverGit) and [
 [![CanMV](https://img.shields.io/badge/CanMV-FF6F00?style=flat-square&logo=python&logoColor=white)](https://canmv.ai/)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS_2025-C00000?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
 [![MaixVision](https://img.shields.io/badge/MaixVision-009688?style=flat-square&logo=sipeed&logoColor=white)](https://maixvision.sipeed.com/)
+[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer/)
 [![JLCPCB](https://img.shields.io/badge/-JLCPCB-1777FF?style=flat-square&logoColor=white)](https://jlcpcb.com/)
 
 ### 📈 GitHub 统计  
